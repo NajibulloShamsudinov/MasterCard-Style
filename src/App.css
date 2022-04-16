@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.conteiner{
+  margin:  0 auto;
+  max-width: 1400px;
+}
+
+
+.Navbar{
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 0px;
+}
+.header_logo{
+  display: flex;
+  width: 150px;
+  justify-content: space-around;
+  width: 50px;
+  height: 50px;
+}
+.body_about{
+  width: 30%;
+  margin: auto 150px;
+}
+.body_phonelog{
+  width: 40%;
+  margin: auto; 
+}
+.menu{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px; 
+}
+.Nav{
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+  list-style: none;
+  
+}
+
+.body{
+  width: 100%;
+  display: flex;
+  width: 100%;
+  height: 550px;
+  justify-content:center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.about_cashback{
+  width: 584px;
+  height: 156px;
+ margin: auto;
+ margin-top: 50px;
+ text-align: center;
+}
+.text_partners{
+  border: 1px solid black;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 48px;
+  box-sizing: border-box;
+  font-size: 18px;
+  line-height: 25px;
+  font-family: 'Nunito';
+  font-style: normal;
+}
+.vektorsGroup1{
+  display: flex;
+  width: 800px;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 40px;
+}
+.vektor1{
+  width: 189px;
+  height: 31px;
+}
+.vektor2{
+  width: 186px;
+  height: 43px;
+}
+.vektor3{
+  width: 168px;
+  height: 56px;
+}
+.vektor4{
+  width: 131px;
+  height: 58px;
+}
+.vektor5{
+  width: 61px;
+  height: 61px;
+}
+.vektor6{
+  width: 190px;
+  height: 25px;
+}
+.vektor7{
+  width: 192px;
+  height: 70px;
+}
+.vektor8{
+  width: 183px;
+  height: 28px;
+}
+.vektorsGroup2{
+  display: flex;
+  width: 800px;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 40px;
+  height: 100px;
+}
+
+.payBy{
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+  margin-top: 25px; 
+}
+.get_downloader{
+  margin-top: 30px;
+}
+.get_up{
+  border: 1px solid  rgb(0, 0, 0);
+  border-radius: 48px;
+  padding: 2px;
+  width: 100px;
+  text-align: center;
+}
+.footer{
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+.hr{
+  background: #CBD6E2;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
